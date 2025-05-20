@@ -1,4 +1,9 @@
 # Fitting Poisson  distribution
+
+# Developed by:S.Dharini
+
+# Reg no:212224040072
+
 # Aim : 
 
 To fit poisson distribution for the arrival of objects per minute from the feeder
